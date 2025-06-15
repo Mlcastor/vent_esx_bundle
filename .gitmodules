@@ -1,0 +1,48 @@
+[submodule "resources/esx_advancedbanking"]
+	path = resources/esx_advancedbanking
+	url = git@github.com:Mlcastor/esx_advancedbanking.git
+	branch = main
+[submodule "resources/esx_advancedgarage"]
+	path = resources/esx_advancedgarage
+	url = git@github.com:Mlcastor/esx_advancedgarage.git
+	branch = main
+[submodule "resources/esx_advancedholdup"]
+	path = resources/esx_advancedholdup
+	url = git@github.com:Mlcastor/esx_advancedholdup.git
+	branch = main
+[submodule "resources/esx_advancedhospital"]
+	path = resources/esx_advancedhospital
+	url = git@github.com:Mlcastor/esx_advancedhospital.git
+	branch = main
+[submodule "resources/esx_advancedjail"]
+	path = resources/esx_advancedjail
+	url = git@github.com:Mlcastor/esx_advancedjail.git
+	branch = main
+[submodule "resources/esx_advancedvehicleshop"]
+	path = resources/esx_advancedvehicleshop
+	url = git@github.com:Mlcastor/esx_advancedvehicleshop.git
+	branch = main
+[submodule "resources/esx_advancedweaponshop"]
+	path = resources/esx_advancedweaponshop
+	url = git@github.com:Mlcastor/esx_advancedweaponshop.git
+	branch = main
+[submodule "resources/esx_extraitems"]
+	path = resources/esx_extraitems
+	url = git@github.com:Mlcastor/esx_extraitems.git
+	branch = main
+[submodule "resources/esx_joblisting"]
+	path = resources/esx_joblisting
+	url = git@github.com:Mlcastor/esx_joblisting.git
+	branch = main
+[submodule "resources/esx_licenseshop"]
+	path = resources/esx_licenseshop
+	url = git@github.com:Mlcastor/esx_licenseshop.git
+	branch = main
+[submodule "resources/esx_vehiclespawner"]
+	path = resources/esx_vehiclespawner
+	url = git@github.com:Mlcastor/esx_vehiclespawner.git
+	branch = main
+[submodule "resources/esx_vehicletheft"]
+	path = resources/esx_vehicletheft
+	url = git@github.com:Mlcastor/esx_vehicletheft.git
+	branch = main
